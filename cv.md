@@ -19,3 +19,10 @@ November 2011 - November 2013| Economist | Avtovazbank
 November 2013 - October 2017| Tax inspector | Federal Tax Service
 November 2017 - Present | QA | PSB   
 
+##Education     
+Period | University| degree
+------------ | -------------| -------------| 
+2008 - 2013| Povolzhskiy State University of Service| Economist
+
+##English
+Intermediate  
